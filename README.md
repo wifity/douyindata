@@ -7,7 +7,7 @@
 **本项目只作为学习交流**
 
 #### 感兴趣的加好友交流
-![markdown]("doc/wechat.png")
+![markdown](doc/wechat.png)
 
 ## 抖音爬虫思路
 
